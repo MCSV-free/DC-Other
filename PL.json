@@ -1,1 +1,545 @@
-{"Mon":"Pháp luật — Bộ câu hỏi tìm hiểu pháp luật dành cho học sinh","QA":[{"type":"multiple_choice","Q":"Theo Luật Trẻ em năm 2016, trẻ em là người có độ tuổi nào sau đây?","A":"Dưới 14 tuổi.","B":"Dưới 16 tuổi.","C":"Dưới 18 tuổi.","D":"Dưới 20 tuổi.","True":"B"},{"type":"multiple_choice","Q":"Theo Bộ luật Hình sự, người từ đủ bao nhiêu tuổi trở lên phải chịu trách nhiệm hình sự về mọi tội phạm, trừ những tội phạm mà Bộ luật này có quy định khác?","A":"Đủ 14 tuổi trở lên.","B":"Đủ 15 tuổi trở lên.","C":"Đủ 16 tuổi trở lên.","D":"Đủ 18 tuổi trở lên.","True":"C"},{"type":"multiple_choice","Q":"Người từ đủ 14 tuổi đến dưới 16 tuổi phải chịu trách nhiệm hình sự trong trường hợp nào sau đây?","A":"Về mọi hành vi vi phạm pháp luật.","B":"Về mọi hành vi vi phạm nội quy.","C":"Về tội rất nghiêm trọng, đặc biệt nghiêm trọng thuộc luật định.","D":"Về mọi hành vi gây thiệt hại tài sản.","True":"C"},{"type":"multiple_choice","Q":"Mục đích chủ yếu của việc xử lý người dưới 18 tuổi phạm tội là gì?","A":"Trừng phạt nghiêm khắc để răn đe.","B":"Giáo dục, giúp sửa chữa sai lầm và tiến bộ.","C":"Cách ly khỏi cộng đồng trong mọi trường hợp.","D":"Buộc gia đình chịu trách nhiệm thay người phạm tội.","True":"B"},{"type":"multiple_choice","Q":"Người dưới 18 tuổi phạm tội có bị áp dụng hình phạt tù chung thân hoặc tử hình không?","A":"Có thể áp dụng nếu phạm tội đặc biệt nghiêm trọng.","B":"Chỉ áp dụng khi có nhiều người bị hại.","C":"Không áp dụng các hình phạt này đối với người dưới 18 tuổi.","D":"Áp dụng nếu gia đình không thực hiện bồi thường.","True":"C"},{"type":"multiple_choice","Q":"Theo Luật An ninh mạng 2018, hành vi nào sau đây bị nghiêm cấm khi sử dụng không gian mạng để thông tin?","A":"Đăng tải thông tin cá nhân của bản thân lên mạng xã hội.","B":"Sử dụng không gian mạng để quảng cáo các sản phẩm thương mại hợp pháp.","C":"Xúc phạm nghiêm trọng nhân phẩm, danh dự của người khác.","D":"Chia sẻ các bài viết mang tính chất giải trí, vui nhộn.","True":"C"},{"type":"multiple_choice","Q":"Cá nhân có hành vi cung cấp, chia sẻ thông tin giả mạo, thông tin sai sự thật, vu khống, xúc phạm uy tín của cơ quan, tổ chức, danh dự, nhân phẩm của cá nhân trên mạng xã hội sẽ bị xử phạt tiền ở mức nào?","A":"Phạt tiền từ 1.000.000đ đến 3.000.000đ","B":"Phạt tiền từ 5.000.000đ đến 10.000.000đ","C":"Phạt tiền từ 10.000.000đ đến 20.000.000đ","D":"Phạt tiền từ 20.000.000đ đến 30.000.000đ","True":"B"},{"type":"multiple_choice","Q":"Hành vi xúc phạm nghiêm trọng nhân phẩm, danh dự của bạn học hoặc người khác trên mạng xã hội nếu bị truy cứu trách nhiệm hình sự về Tội làm nhục người khác (Điều 155 BLHS) bằng phương tiện mạng máy tính, mạng viễn thông có khung hình phạt tù là bao nhiêu?","A":"Phạt tù từ 03 tháng đến 01 năm","B":"Phạt tù từ 03 tháng đến 02 năm","C":"Phạt tù từ 02 năm đến 05 năm","D":"Phạt tù từ 05 năm đến 10 năm","True":"B"},{"type":"multiple_choice","Q":"Mức phạt tiền đối với cá nhân có hành vi cung cấp, chia sẻ thông tin bịa đặt, gây hoang mang trong nhân dân, kích động bạo lực, dâm ô, đồi trụy trên mạng xã hội là bao nhiêu?","A":"Phạt tiền từ 1.000.000đ đến 3.000.000đ","B":"Phạt tiền từ 5.000.000đ đến 10.000.000đ","C":"Phạt tiền từ 10.000.000đ đến 15.000.000đ","D":"Phạt tiền từ 15.000.000đ đến 20.000.000đ","True":"B"},{"type":"multiple_choice","Q":"Cá nhân có hành vi quảng cáo, tuyên truyền, chia sẻ thông tin về hàng hóa, dịch vụ bị cấm (như thuốc lá điện tử, tiền giả, vũ khí, cờ bạc...) trên mạng xã hội bị phạt tiền hành chính bao nhiêu?","A":"Phạt tiền từ 3.000.000đ đến 5.000.000đ","B":"Phạt tiền từ 5.000.000đ đến 10.000.000đ","C":"Phạt tiền từ 10.000.000đ đến 15.000.000đ","D":"Phạt tiền từ 15.000.000đ đến 20.000.000đ","True":"B"},{"type":"multiple_choice","Q":"Người có hành vi cố ý đăng tải các đường link chứa mã độc, vi-rút lên mạng xã hội nhằm chiếm đoạt tài khoản Facebook, Zalo, ngân hàng của người khác (nếu chưa đến mức truy cứu hình sự) bị phạt tiền bao nhiêu?","A":"Phạt tiền từ 5.000.000đ đến 10.000.000đ","B":"Phạt tiền từ 10.000.000đ đến 20.000.000đ","C":"Phạt tiền từ 20.000.000đ đến 30.000.000đ","D":"Phạt tiền từ 30.000.000đ đến 50.000.000đ","True":"B"},{"type":"multiple_choice","Q":"Một học sinh bị người lạ đe dọa, tống tiền qua mạng. Cách xử lý phù hợp nhất là gì?","A":"Im lặng và tự giải quyết để tránh liên lụy.","B":"Làm theo yêu cầu để người đe dọa không tiếp tục.","C":"Lưu bằng chứng, báo gia đình, nhà trường và cơ quan chức năng.","D":"Đăng thông tin cá nhân người đe dọa để trả đũa.","True":"C"},{"type":"multiple_choice","Q":"Theo Luật Trật tự, an toàn giao thông đường bộ năm 2024, người đủ bao nhiêu tuổi được điều khiển xe gắn máy?","A":"Đủ 14 tuổi trở lên.","B":"Đủ 15 tuổi trở lên.","C":"Đủ 16 tuổi trở lên.","D":"Đủ 18 tuổi trở lên.","True":"C"},{"type":"multiple_choice","Q":"Người điều khiển xe máy chạy quá tốc độ quy định từ 10 km/h đến 20 km/h bị phạt tiền trong khoảng nào?","A":"Từ 300.000 đồng đến 400.000 đồng.","B":"Từ 800.000 đồng đến 1.000.000 đồng.","C":"Từ 2.000.000 đồng đến 3.000.000 đồng.","D":"Từ 4.000.000 đồng đến 5.000.000 đồng.","True":"B"},{"type":"multiple_choice","Q":"Hành vi nào sau đây bị nghiêm cấm khi tham gia giao thông đường bộ?","A":"Đi đúng phần đường và làn đường quy định.","B":"Chấp hành hiệu lệnh của người điều khiển giao thông.","C":"Điều khiển phương tiện khi trong cơ thể có ma túy.","D":"Nhường đường cho người đi bộ tại nơi quy định.","True":"C"},{"type":"multiple_choice","Q":"Hành vi lạng lách, đánh võng trên đường bộ ngoài đô thị khi điều khiển xe máy bị phạt tiền ở mức nào sau đây?","A":"Từ 1.000.000 đồng đến 2.000.000 đồng.","B":"Từ 2.000.000 đồng đến 4.000.000 đồng.","C":"Từ 6.000.000 đồng đến 8.000.000 đồng.","D":"Từ 10.000.000 đồng đến 14.000.000 đồng.","True":"C"},{"type":"multiple_choice","Q":"Người điều khiển xe máy chở 2 người trên xe (thành chở 3) bị phạt tiền bao nhiêu? <i>(Trừ các trường hợp chở người bệnh đi cấp cứu, trẻ em dưới 14 tuổi, áp giải người vi phạm)</i>","A":"Từ 200.000 đồng đến 300.000 đồng.","B":"Từ 300.000 đồng đến 400.000 đồng.","C":"Từ 400.000 đồng đến 600.000 đồng.","D":"Từ 800.000 đồng đến 1.000.000 đồng.","True":"C"},{"type":"multiple_choice","Q":"Người điều khiển xe máy thực hiện hành vi điều khiển xe đi trên hè phố (lề đường) bị xử phạt tiền với mức nào? <i>(Trừ trường hợp đi qua hè phố để vào nhà)</i>","A":"Từ 100.000 đồng đến 200.000 đồng.","B":"Từ 400.000 đồng đến 600.000 đồng.","C":"Từ 800.000 đồng đến 1.000.000 đồng.","D":"Từ 1.000.000 đồng đến 2.000.000 đồng.","True":"B"},{"type":"multiple_choice","Q":"Hành vi dùng tay cầm và sử dụng điện thoại di động khi đang điều khiển xe đạp điện chạy trên đường bị xử phạt ở mức nào?","A":"Từ 80.000 đồng đến 100.000 đồng.","B":"Từ 200.000 đồng đến 300.000 đồng.","C":"Từ 400.000 đồng đến 600.000 đồng.","D":"Từ 800.000 đồng đến 1.000.000 đồng.","True":"A"},{"type":"multiple_choice","Q":"Hành vi chuyển làn đường không có tín hiệu báo trước (không xi-nhan) khi điều khiển xe máy bị phạt tiền ở mức nào sau đây?","A":"Từ 100.000 đồng đến 200.000 đồng.","B":"Từ 200.000 đồng đến 300.000 đồng.","C":"Từ 400.000 đồng đến 600.000 đồng.","D":"Từ 800.000 đồng đến 1.000.000 đồng.","True":"A"},{"type":"multiple_choice","Q":"Người điều khiển xe máy thực hiện hành vi điều khiển xe chạy dàn hàng ngang từ 3 xe trở lên bị phạt tiền ở mức nào?","A":"Từ 100.000 đồng đến 200.000 đồng.","B":"Từ 200.000 đồng đến 300.000 đồng.","C":"Từ 400.000 đồng đến 600.000 đồng.","D":"Từ 800.000 đồng đến 1.000.000 đồng.","True":"A"},{"type":"multiple_choice","Q":"Người điều khiển xe đạp điện đi vào đường có biển "Cấm đi ngược chiều" hoặc đi ngược chiều đường một chiều bị phạt tiền với mức nào?","A":"Từ 100.000 đồng đến 200.000 đồng.","B":"Từ 300.000 đồng đến 400.000 đồng.","C":"Từ 600.000 đồng đến 800.000 đồng.","D":"Từ 1.000.000 đồng đến 2.000.000 đồng.","True":"B"},{"type":"multiple_choice","Q":"Người điều khiển xe đạp điện thực hiện hành vi lạng lách, đánh võng hoặc đuổi nhau trên đường bị phạt tiền ở mức nào sau đây?","A":"Từ 100.000 đồng đến 200.000 đồng.","B":"Từ 300.000 đồng đến 400.000 đồng.","C":"Từ 800.000 đồng đến 1.000.000 đồng.","D":"Từ 2.000.000 đồng đến 3.000.000 đồng.","True":"B"},{"type":"multiple_choice","Q":"Luật Bảo vệ môi trường năm 2020 có hiệu lực thi hành từ ngày nào?","A":"Ngày 01 tháng 01 năm 2021.","B":"Ngày 01 tháng 07 năm 2021.","C":"Ngày 01 tháng 01 năm 2022.","D":"Ngày 01 tháng 07 năm 2022.","True":"C"},{"type":"multiple_choice","Q":"Theo Luật Bảo vệ môi trường 2020, chất thải rắn sinh hoạt được phân thành những nhóm nào?","A":"Rác hữu cơ và rác vô cơ theo cách gọi thông thường.","B":"Chất thải tái chế, chất thải thực phẩm và chất thải khác.","C":"Rác khô, rác ướt và rác có kích thước lớn.","D":"Rác trong nhà, rác ngoài sân và rác ngoài đường.","True":"B"},{"type":"multiple_choice","Q":"Bạo lực học đường được hiểu là hành vi nào sau đây?","A":"Hoạt động vui chơi, thi đua giữa các nhóm học sinh.","B":"Hành vi cố ý gây tổn hại thể chất, tinh thần người học.","C":"Những cuộc tranh luận về nội dung bài học trên lớp.","D":"Hoạt động góp ý, nhận xét bạn trong học tập.","True":"B"},{"type":"multiple_choice","Q":"Học sinh đánh hội đồng bạn học gây thương tích với tỷ lệ tổn thương cơ thể 15% (thuộc khoản 1 Điều 134 BLHS về Tội cố ý gây thương tích). Khung hình phạt cơ bản áp dụng cho hành vi này là gì?","A":"Phạt tiền từ 10 - 50 triệu đồng","B":"Phạt cải tạo không giam giữ đến 03 năm hoặc phạt tù từ 06 tháng đến 03 năm","C":"Phạt tù từ 02 năm đến 05 năm","D":"Phạt tù từ 05 năm đến 10 năm","True":"B"},{"type":"multiple_choice","Q":"Nhóm học sinh chặn đường dùng dao đe dọa đánh ngay lập tức để lấy điện thoại của bạn (Tội cướp tài sản - Điều 168 BLHS). Mức hình phạt thấp nhất ở khung cơ bản của tội danh này là gì?","A":"Phạt tù từ 01 năm đến 03 năm","B":"Phạt tù từ 03 năm đến 10 năm","C":"Phạt tù từ 07 năm đến 15 năm","D":"Phạt cải tạo không giam giữ 02 năm","True":"B"},{"type":"multiple_choice","Q":"Hành vi đe dọa tung clip nóng hoặc dùng bạo lực để ép bạn học nộp tiền hàng tuần (Tội cưỡng đoạt tài sản - Điều 170 BLHS) chịu khung hình phạt cơ bản nào?","A":"Phạt tiền từ 5 - 20 triệu đồng","B":"Phạt tù từ 01 năm đến 05 năm","C":"Phạt tù từ 03 năm đến 07 năm","D":"Phạt cải tạo không giam giữ đến 01 năm","True":"B"},{"type":"multiple_choice","Q":"Đăng clip xé quần áo, làm nhục bạn học lên mạng xã hội gây hậu quả nghiêm trọng đến nhân phẩm nạn nhân (Tội làm nhục người khác - Điều 155 BLHS) có khung hình phạt cao nhất của tội này là bao nhiêu?","A":"Phạt tù đến 01 năm","B":"Phạt tù đến 03 năm","C":"Phạt tù đến 05 năm","D":"Phạt tù đến 07 năm","True":"C"},{"type":"multiple_choice","Q":"Người từ đủ 14 tuổi đến dưới 16 tuổi thực hiện hành vi bạo lực học đường dẫn đến thương tích cho nạn nhân với tỷ lệ tổn thương cơ thể 61% trở lên (thuộc tội phạm rất nghiêm trọng/đặc biệt nghiêm trọng) bị xử lý hình sự. Mức phạt tù áp dụng cho độ tuổi này được quy định như thế nào?","A":"Áp dụng mức phạt giống như người lớn (người thành niên)","B":"Tối đa không quá 1/2 mức phạt tù mà điều luật quy định","C":"Tối đa không quá 3/4 mức phạt tù mà điều luật quy định","D":"Tuyệt đối không bị phạt tù","True":"B"},{"type":"multiple_choice","Q":"Đánh hội đồng bạn học dẫn đến hậu quả nạn nhân bị tử vong (Tội cố ý gây thương tích dẫn đến chết người - Khoản 4 Điều 134 BLHS). Khung hình phạt quy định cho hành vi này là gì?","A":"Phạt tù từ 03 năm đến 07 năm","B":"Phạt tù từ 07 năm đến 14 năm","C":"Phạt tù từ 12 năm đến 20 năm hoặc tù chung thân","D":"Phạt tù từ 01 năm đến 05 năm","True":"B"},{"type":"multiple_choice","Q":"Hành vi liên tục chửi bới, đe dọa, đối xử tàn ác làm suy sụp tinh thần bạn học trong thời gian dài (Tội hành hạ người khác - Điều 140 BLHS) thuộc trường hợp đối với người dưới 16 tuổi (Khoản 2) có khung hình phạt nào?","A":"Phạt tù từ 03 tháng đến 02 năm","B":"Phạt tù từ 01 năm đến 03 năm","C":"Phạt tù từ 02 năm đến 05 năm","D":"Phạt tiền từ 10 - 30 triệu đồng","True":"B"},{"type":"multiple_choice","Q":"Luật Phòng, chống ma túy năm 2021 có hiệu lực thi hành từ ngày nào?","A":"Ngày 01 tháng 01 năm 2021.","B":"Ngày 01 tháng 07 năm 2021.","C":"Ngày 01 tháng 01 năm 2022.","D":"Ngày 01 tháng 07 năm 2022.","True":"C"},{"type":"multiple_choice","Q":"Heroin là chất ma túy bán tổng hợp được điều chế bằng phản ứng hóa học từ hoạt chất Morphine. Chất Morphine này được chiết xuất trực tiếp từ nhựa của loại cây nào sau đây?","A":"Cây Cần sa (Cannabis sativa)","B":"Cây Thuốc phiện / Anh túc (Papaver somniferum)","C":"Cây Keo phên (Cây Lá khát)","D":"Cây Cốc-ca (Erythroxylum coca)","True":"B"},{"type":"multiple_choice","Q":"Học sinh cất giữ (trong cặp, trong cốp xe hoặc tại nhà) ma túy (như cần sa, ma túy dạng nước vui, nấm thức thần...) để bản thân dùng dần mà không nhằm mục đích mua bán hay sản xuất thì cấu thành tội danh nào?","A":"Tội tổ chức sử dụng trái phép chất ma túy (Điều 255 BLHS)","B":"Tội tàng trữ trái phép chất ma túy (Điều 249 BLHS)","C":"Tội chứa chấp việc sử dụng trái phép chất ma túy (Điều 256 BLHS)","D":"Chỉ bị xử phạt vi phạm hành chính trong mọi trường hợp","True":"B"},{"type":"multiple_choice","Q":"Hành vi bán tinh dầu thuốc lá điện tử chứa chất ma túy (như ADB-BUTINACA, THC...) cho các bạn học sinh trong trường học cấu thành tội phạm nào và bị xử lý theo khung hình phạt nào ở mức cơ bản?","A":"Tội buôn bán hàng cấm (Điều 190 BLHS)","B":"Tội mua bán trái phép chất ma túy (Điều 251 BLHS) — Phạt tù từ 02 năm đến 07 năm","C":"Tội mua bán trái phép chất ma túy (Điều 251 BLHS) — Phạt tù từ 07 năm đến 15 năm (do phạm tội đối với người dưới 18 tuổi hoặc tại cơ sở giáo dục)","D":"Chỉ bị phạt tiền từ 10.000.000đ đến 20.000.000đ","True":"C"},{"type":"multiple_choice","Q":"Một nhóm học sinh rủ rê, chuẩn bị địa điểm (thuê phòng karaoke, nhà trọ) và dụng cụ để cùng nhau "bay lắc", sử dụng ma túy tổng hợp/nước vui thì người đứng ra tổ chức, chuẩn bị dụng cụ sẽ bị truy cứu về tội danh nào?","A":"Tội tổ chức sử dụng trái phép chất ma túy (Điều 255 BLHS)","B":"Tội sử dụng trái phép chất ma túy","C":"Tội gây rối trật tự công cộng (Điều 318 BLHS)","D":"Tội che giấu tội phạm (Điều 389 BLHS)","True":"A"},{"type":"multiple_choice","Q":"Hành vi dụ dỗ, lôi kéo, kích động hoặc ép buộc bạn học dùng thử bánh kẹo, nước uống chứa chất ma túy mà bạn học đó không hề biết trước cấu thành tội danh nào?","A":"Tội dụ dỗ người khác phạm tội","B":"Tội lừa đảo chiếm đoạt tài sản","C":"Tội cưỡng bức sử dụng trái phép chất ma túy (Điều 257 BLHS) hoặc Tội lôi kéo người khác sử dụng trái phép chất ma túy (Điều 258 BLHS)","D":"Tội cố ý gây thương tích (Điều 134 BLHS)","True":"C"},{"type":"multiple_choice","Q":"Học sinh thực hiện hành vi nhận vận chuyển hộ một gói hàng (bên trong có chứa ma túy) từ người này sang người khác để lấy tiền công hoặc điểm tốt, dù biết rõ hoặc nghi ngờ bên trong là ma túy thì sẽ bị xử lý về tội gì?","A":"Tội vận chuyển trái phép chất ma túy (Điều 250 BLHS)","B":"Tội tàng trữ trái phép chất ma túy (Điều 249 BLHS)","C":"Tội làm tay sai cho tội phạm","D":"Không phạm tội vì chỉ là người giao hàng thuê (shipper)","True":"A"},{"type":"multiple_choice","Q":"Một học sinh 15 tuổi thực hiện hành vi cố ý gây thương tích. Việc xác định trách nhiệm hình sự cần căn cứ chủ yếu vào yếu tố nào?","A":"Chỉ căn cứ vào việc người đó đã gây thương tích.","B":"Chỉ căn cứ vào yêu cầu của người bị hại.","C":"Chỉ căn cứ vào kết quả học tập của người đó.","D":"Độ tuổi, tính chất và mức độ tội phạm theo luật định.","True":"D"},{"type":"multiple_choice","Q":"Một học sinh 17 tuổi tham gia cướp giật tài sản. Nhận định nào sau đây phù hợp với pháp luật?","A":"Không phải chịu trách nhiệm vì chưa đủ 18 tuổi.","B":"Có thể phải chịu trách nhiệm hình sự về hành vi phạm tội.","C":"Chỉ bị xử lý nếu gia đình không bồi thường.","D":"Chỉ bị nhà trường xử lý bằng hình thức kỷ luật.","True":"B"},{"type":"multiple_choice","Q":"Khi xem xét trách nhiệm của người dưới 18 tuổi phạm tội, cơ quan có thẩm quyền cần chú ý những yếu tố nào?","A":"Chỉ xem xét giá trị tài sản bị thiệt hại.","B":"Chỉ xem xét ý kiến của gia đình người đó.","C":"Xem xét tuổi, nhận thức, nhân thân và hành vi.","D":"Chỉ xem xét kết quả học tập và rèn luyện.","True":"C"},{"type":"multiple_choice","Q":"Một học sinh 16 tuổi trộm cắp tài sản theo lời rủ rê của bạn. Nhận định nào sau đây đúng?","A":"Được miễn trách nhiệm vì làm theo lời rủ rê.","B":"Chỉ người rủ rê phải chịu trách nhiệm pháp lý.","C":"Có thể phải chịu trách nhiệm tùy tính chất, mức độ hành vi.","D":"Chỉ cần xin lỗi là được miễn mọi trách nhiệm.","True":"C"},{"type":"multiple_choice","Q":"Một học sinh chỉnh sửa ảnh giáo viên thành nội dung phản cảm rồi phát tán lên mạng. Nhận định nào phù hợp nhất?","A":"Chỉ vi phạm nội quy nếu không thu lợi từ việc đăng ảnh.","B":"Có thể xâm phạm danh dự, nhân phẩm và quyền hình ảnh.","C":"Không vi phạm vì hình ảnh đã được chỉnh sửa bằng phần mềm.","D":"Chỉ bị xử lý khi người đăng sử dụng tài khoản thật.","True":"B"},{"type":"multiple_choice","Q":"Một nhóm học sinh xâm nhập trái phép tài khoản bạn, lấy dữ liệu cá nhân để đe dọa. Nhận định nào chính xác nhất?","A":"Không vi phạm vì các em học cùng một trường.","B":"Chỉ vi phạm nếu tài khoản có thông tin về tiền bạc.","C":"Có thể vi phạm pháp luật về mạng và quyền riêng tư.","D":"Chỉ cần xóa dữ liệu là không còn trách nhiệm.","True":"C"},{"type":"multiple_choice","Q":"Người điều khiển xe máy dùng điện thoại bằng tay khi xe đang chạy có thể dẫn đến hậu quả nào?","A":"Không ảnh hưởng nếu người lái đã quen sử dụng.","B":"Giảm tập trung, tăng nguy cơ tai nạn và vi phạm luật.","C":"Chỉ gây nguy hiểm cho người đi bộ trên vỉa hè.","D":"Chỉ bị xem là vi phạm khi xảy ra va chạm giao thông.","True":"B"},{"type":"multiple_choice","Q":"Người đi bộ khi tham gia giao thông cần thực hiện quy định nào?","A":"Đi dưới lòng đường để tránh các phương tiện.","B":"Đi trên vỉa hè, lề đường hoặc nơi dành riêng.","C":"Đi thành hàng ngang trên phần đường xe chạy.","D":"Sang đường tại bất kỳ vị trí nào thuận tiện.","True":"B"},{"type":"multiple_choice","Q":"Hành vi nào sau đây góp phần bảo vệ môi trường?","A":"Vứt rác sinh hoạt xuống dòng suối gần nhà.","B":"Đốt rác nhựa tùy tiện tại khu dân cư.","C":"Trồng cây xanh và chăm sóc cảnh quan.","D":"Xả nước thải chưa xử lý ra môi trường.","True":"C"},{"type":"multiple_choice","Q":"Cơ sở sản xuất cố tình che giấu việc xả nước thải chưa xử lý ra môi trường. Cơ sở có thể phải chịu hậu quả pháp lý nào?","A":"Không bị xử lý nếu hoạt động sản xuất tạo việc làm.","B":"Chỉ cần đóng cửa cơ sở mà không phải khắc phục.","C":"Có thể bị xử phạt, buộc khắc phục hoặc truy cứu hình sự.","D":"Chỉ người dân sống gần cơ sở phải chịu trách nhiệm.","True":"C"},{"type":"multiple_choice","Q":"Trường học phân loại riêng chai nhựa, giấy vụn, thức ăn thừa và chất thải khác. Ý nghĩa phù hợp nhất của hoạt động này là gì?","A":"Chỉ nhằm làm đẹp khuôn viên và trang trí lớp học.","B":"Góp phần phân loại tại nguồn, tái chế và giảm ô nhiễm.","C":"Giúp nhà trường không còn trách nhiệm bảo vệ môi trường.","D":"Thay thế hoàn toàn trách nhiệm thu gom của đơn vị chức năng.","True":"B"},{"type":"multiple_choice","Q":"Hành vi nào sau đây bị nghiêm cấm trong hoạt động bảo vệ môi trường?","A":"Thu gom, phân loại chất thải theo hướng dẫn.","B":"Trồng cây xanh tại khuôn viên trường học.","C":"Xả chất thải chưa xử lý đạt quy chuẩn ra môi trường.","D":"Tuyên truyền sử dụng tiết kiệm tài nguyên thiên nhiên.","True":"C"},{"type":"multiple_choice","Q":"Vì sao cần hạn chế sử dụng túi ni-lông dùng một lần?","A":"Vì túi ni-lông không có bất kỳ công dụng nào.","B":"Vì chúng khó phân hủy và có thể gây ô nhiễm.","C":"Vì túi ni-lông làm giảm diện tích đất sản xuất.","D":"Vì túi ni-lông chỉ gây ô nhiễm môi trường không khí.","True":"B"},{"type":"multiple_choice","Q":"Hành vi nào sau đây bị nghiêm cấm theo pháp luật về phòng, chống ma túy?","A":"Tuyên truyền tác hại của ma túy trong trường học.","B":"Tham gia hoạt động phòng, chống ma túy tại địa phương.","C":"Trồng cây có chứa chất ma túy trái quy định pháp luật.","D":"Tổ chức hoạt động thể thao lành mạnh cho học sinh.","True":"C"},{"type":"multiple_choice","Q":"Ma túy có thể gây ra hậu quả chủ yếu nào đối với người sử dụng?","A":"Cải thiện sức khỏe và thể lực trong thời gian dài.","B":"Gây nghiện, ảnh hưởng sức khỏe thể chất và tinh thần.","C":"Nâng cao khả năng tập trung và kết quả học tập.","D":"Không gây ảnh hưởng nếu chỉ sử dụng một lần.","True":"B"},{"type":"multiple_choice","Q":"Hành vi nào thể hiện trách nhiệm của học sinh trong phòng, chống ma túy?","A":"Thử chất lạ khi được bạn bè rủ rê, mời gọi.","B":"Tuyên truyền tác hại và chủ động tránh xa ma túy.","C":"Che giấu việc sử dụng ma túy của bạn cùng lớp.","D":"Giúp người khác cất giữ chất nghi là ma túy.","True":"B"},{"type":"multiple_choice","Q":"Học sinh A, 15 tuổi, cùng nhóm bạn thực hiện hành vi cướp tài sản và trực tiếp khống chế người bị hại. Nhận định nào chính xác nhất?","A":"A đương nhiên không chịu trách nhiệm vì chưa đủ 16 tuổi.","B":"A có thể phải chịu trách nhiệm nếu hành vi thuộc trường hợp luật định.","C":"Chỉ người đủ 18 tuổi mới chịu trách nhiệm về tội cướp tài sản.","D":"A chỉ chịu trách nhiệm nếu trước đó đã bị xử phạt hành chính.","True":"B"},{"type":"multiple_choice","Q":"Khi nhận đường link lạ yêu cầu nhập mật khẩu và mã OTP, em nên làm gì?","A":"Truy cập và nhập thông tin để kiểm tra.","B":"Chuyển đường link cho bạn bè cùng truy cập.","C":"Không truy cập, không cung cấp thông tin và báo người lớn.","D":"Nhập mã OTP nếu trang web có hình ảnh quen thuộc.","True":"C"},{"type":"multiple_choice","Q":"Chứng kiến một bạn bị nhóm học sinh đánh đập, em nên làm gì?","A":"Cổ vũ và quay video để chia sẻ với bạn bè.","B":"Tham gia đánh cùng nhóm để thể hiện sự đoàn kết.","C":"Hỗ trợ an toàn và báo ngay người có trách nhiệm.","D":"Bỏ đi vì cho rằng đó là mâu thuẫn cá nhân.","True":"C"},{"type":"multiple_choice","Q":"Một học sinh bị nhóm bạn đe dọa, ép đưa tiền nếu không sẽ bị đánh. Cách xử lý nào phù hợp nhất?","A":"Đưa tiền thường xuyên để tránh bị nhóm bạn gây sự.","B":"Tập hợp bạn bè để trả thù và buộc nhóm kia xin lỗi.","C":"Giữ bằng chứng an toàn và báo gia đình, nhà trường, công an.","D":"Đăng thông tin cá nhân của nhóm đe dọa lên mạng xã hội.","True":"C"}]}
+{
+  "Mon": "Pháp luật — Bộ câu hỏi tìm hiểu pháp luật dành cho học sinh",
+  "QA": [
+    {
+      "type": "multiple_choice",
+      "Q": "Theo Luật Trẻ em năm 2016, trẻ em là người có độ tuổi nào sau đây?",
+      "A": "Dưới 14 tuổi.",
+      "B": "Dưới 16 tuổi.",
+      "C": "Dưới 18 tuổi.",
+      "D": "Dưới 20 tuổi.",
+      "True": "B"
+    },
+    {
+      "type": "multiple_choice",
+      "Q": "Theo Bộ luật Hình sự, người từ đủ bao nhiêu tuổi trở lên phải chịu trách nhiệm hình sự về mọi tội phạm, trừ những tội phạm mà Bộ luật này có quy định khác?",
+      "A": "Đủ 14 tuổi trở lên.",
+      "B": "Đủ 15 tuổi trở lên.",
+      "C": "Đủ 16 tuổi trở lên.",
+      "D": "Đủ 18 tuổi trở lên.",
+      "True": "C"
+    },
+    {
+      "type": "multiple_choice",
+      "Q": "Người từ đủ 14 tuổi đến dưới 16 tuổi phải chịu trách nhiệm hình sự trong trường hợp nào sau đây?",
+      "A": "Về mọi hành vi vi phạm pháp luật.",
+      "B": "Về mọi hành vi vi phạm nội quy.",
+      "C": "Về tội rất nghiêm trọng, đặc biệt nghiêm trọng thuộc luật định.",
+      "D": "Về mọi hành vi gây thiệt hại tài sản.",
+      "True": "C"
+    },
+    {
+      "type": "multiple_choice",
+      "Q": "Mục đích chủ yếu của việc xử lý người dưới 18 tuổi phạm tội là gì?",
+      "A": "Trừng phạt nghiêm khắc để răn đe.",
+      "B": "Giáo dục, giúp sửa chữa sai lầm và tiến bộ.",
+      "C": "Cách ly khỏi cộng đồng trong mọi trường hợp.",
+      "D": "Buộc gia đình chịu trách nhiệm thay người phạm tội.",
+      "True": "B"
+    },
+    {
+      "type": "multiple_choice",
+      "Q": "Người dưới 18 tuổi phạm tội có bị áp dụng hình phạt tù chung thân hoặc tử hình không?",
+      "A": "Có thể áp dụng nếu phạm tội đặc biệt nghiêm trọng.",
+      "B": "Chỉ áp dụng khi có nhiều người bị hại.",
+      "C": "Không áp dụng các hình phạt này đối với người dưới 18 tuổi.",
+      "D": "Áp dụng nếu gia đình không thực hiện bồi thường.",
+      "True": "C"
+    },
+    {
+      "type": "multiple_choice",
+      "Q": "Theo Luật An ninh mạng 2018, hành vi nào sau đây bị nghiêm cấm khi sử dụng không gian mạng để thông tin?",
+      "A": "Đăng tải thông tin cá nhân của bản thân lên mạng xã hội.",
+      "B": "Sử dụng không gian mạng để quảng cáo các sản phẩm thương mại hợp pháp.",
+      "C": "Xúc phạm nghiêm trọng nhân phẩm, danh dự của người khác.",
+      "D": "Chia sẻ các bài viết mang tính chất giải trí, vui nhộn.",
+      "True": "C"
+    },
+    {
+      "type": "multiple_choice",
+      "Q": "Cá nhân có hành vi cung cấp, chia sẻ thông tin giả mạo, thông tin sai sự thật, vu khống, xúc phạm uy tín của cơ quan, tổ chức, danh dự, nhân phẩm của cá nhân trên mạng xã hội sẽ bị xử phạt tiền ở mức nào?",
+      "A": "Phạt tiền từ 1.000.000đ đến 3.000.000đ",
+      "B": "Phạt tiền từ 5.000.000đ đến 10.000.000đ",
+      "C": "Phạt tiền từ 10.000.000đ đến 20.000.000đ",
+      "D": "Phạt tiền từ 20.000.000đ đến 30.000.000đ",
+      "True": "B"
+    },
+    {
+      "type": "multiple_choice",
+      "Q": "Hành vi xúc phạm nghiêm trọng nhân phẩm, danh dự của bạn học hoặc người khác trên mạng xã hội nếu bị truy cứu trách nhiệm hình sự về Tội làm nhục người khác (Điều 155 BLHS) bằng phương tiện mạng máy tính, mạng viễn thông có khung hình phạt tù là bao nhiêu?",
+      "A": "Phạt tù từ 03 tháng đến 01 năm",
+      "B": "Phạt tù từ 03 tháng đến 02 năm",
+      "C": "Phạt tù từ 02 năm đến 05 năm",
+      "D": "Phạt tù từ 05 năm đến 10 năm",
+      "True": "B"
+    },
+    {
+      "type": "multiple_choice",
+      "Q": "Mức phạt tiền đối với cá nhân có hành vi cung cấp, chia sẻ thông tin bịa đặt, gây hoang mang trong nhân dân, kích động bạo lực, dâm ô, đồi trụy trên mạng xã hội là bao nhiêu?",
+      "A": "Phạt tiền từ 1.000.000đ đến 3.000.000đ",
+      "B": "Phạt tiền từ 5.000.000đ đến 10.000.000đ",
+      "C": "Phạt tiền từ 10.000.000đ đến 15.000.000đ",
+      "D": "Phạt tiền từ 15.000.000đ đến 20.000.000đ",
+      "True": "B"
+    },
+    {
+      "type": "multiple_choice",
+      "Q": "Cá nhân có hành vi quảng cáo, tuyên truyền, chia sẻ thông tin về hàng hóa, dịch vụ bị cấm (như thuốc lá điện tử, tiền giả, vũ khí, cờ bạc...) trên mạng xã hội bị phạt tiền hành chính bao nhiêu?",
+      "A": "Phạt tiền từ 3.000.000đ đến 5.000.000đ",
+      "B": "Phạt tiền từ 5.000.000đ đến 10.000.000đ",
+      "C": "Phạt tiền từ 10.000.000đ đến 15.000.000đ",
+      "D": "Phạt tiền từ 15.000.000đ đến 20.000.000đ",
+      "True": "B"
+    },
+    {
+      "type": "multiple_choice",
+      "Q": "Người có hành vi cố ý đăng tải các đường link chứa mã độc, vi-rút lên mạng xã hội nhằm chiếm đoạt tài khoản Facebook, Zalo, ngân hàng của người khác (nếu chưa đến mức truy cứu hình sự) bị phạt tiền bao nhiêu?",
+      "A": "Phạt tiền từ 5.000.000đ đến 10.000.000đ",
+      "B": "Phạt tiền từ 10.000.000đ đến 20.000.000đ",
+      "C": "Phạt tiền từ 20.000.000đ đến 30.000.000đ",
+      "D": "Phạt tiền từ 30.000.000đ đến 50.000.000đ",
+      "True": "B"
+    },
+    {
+      "type": "multiple_choice",
+      "Q": "Một học sinh bị người lạ đe dọa, tống tiền qua mạng. Cách xử lý phù hợp nhất là gì?",
+      "A": "Im lặng và tự giải quyết để tránh liên lụy.",
+      "B": "Làm theo yêu cầu để người đe dọa không tiếp tục.",
+      "C": "Lưu bằng chứng, báo gia đình, nhà trường và cơ quan chức năng.",
+      "D": "Đăng thông tin cá nhân người đe dọa để trả đũa.",
+      "True": "C"
+    },
+    {
+      "type": "multiple_choice",
+      "Q": "Theo Luật Trật tự, an toàn giao thông đường bộ năm 2024, người đủ bao nhiêu tuổi được điều khiển xe gắn máy?",
+      "A": "Đủ 14 tuổi trở lên.",
+      "B": "Đủ 15 tuổi trở lên.",
+      "C": "Đủ 16 tuổi trở lên.",
+      "D": "Đủ 18 tuổi trở lên.",
+      "True": "C"
+    },
+    {
+      "type": "multiple_choice",
+      "Q": "Người điều khiển xe máy chạy quá tốc độ quy định từ 10 km/h đến 20 km/h bị phạt tiền trong khoảng nào?",
+      "A": "Từ 300.000 đồng đến 400.000 đồng.",
+      "B": "Từ 800.000 đồng đến 1.000.000 đồng.",
+      "C": "Từ 2.000.000 đồng đến 3.000.000 đồng.",
+      "D": "Từ 4.000.000 đồng đến 5.000.000 đồng.",
+      "True": "B"
+    },
+    {
+      "type": "multiple_choice",
+      "Q": "Hành vi nào sau đây bị nghiêm cấm khi tham gia giao thông đường bộ?",
+      "A": "Đi đúng phần đường và làn đường quy định.",
+      "B": "Chấp hành hiệu lệnh của người điều khiển giao thông.",
+      "C": "Điều khiển phương tiện khi trong cơ thể có ma túy.",
+      "D": "Nhường đường cho người đi bộ tại nơi quy định.",
+      "True": "C"
+    },
+    {
+      "type": "multiple_choice",
+      "Q": "Hành vi lạng lách, đánh võng trên đường bộ ngoài đô thị khi điều khiển xe máy bị phạt tiền ở mức nào sau đây?",
+      "A": "Từ 1.000.000 đồng đến 2.000.000 đồng.",
+      "B": "Từ 2.000.000 đồng đến 4.000.000 đồng.",
+      "C": "Từ 6.000.000 đồng đến 8.000.000 đồng.",
+      "D": "Từ 10.000.000 đồng đến 14.000.000 đồng.",
+      "True": "C"
+    },
+    {
+      "type": "multiple_choice",
+      "Q": "Người điều khiển xe máy chở 2 người trên xe (thành chở 3) bị phạt tiền bao nhiêu? <i>(Trừ các trường hợp chở người bệnh đi cấp cứu, trẻ em dưới 14 tuổi, áp giải người vi phạm)</i>",
+      "A": "Từ 200.000 đồng đến 300.000 đồng.",
+      "B": "Từ 300.000 đồng đến 400.000 đồng.",
+      "C": "Từ 400.000 đồng đến 600.000 đồng.",
+      "D": "Từ 800.000 đồng đến 1.000.000 đồng.",
+      "True": "C"
+    },
+    {
+      "type": "multiple_choice",
+      "Q": "Người điều khiển xe máy thực hiện hành vi điều khiển xe đi trên hè phố (lề đường) bị xử phạt tiền với mức nào? <i>(Trừ trường hợp đi qua hè phố để vào nhà)</i>",
+      "A": "Từ 100.000 đồng đến 200.000 đồng.",
+      "B": "Từ 400.000 đồng đến 600.000 đồng.",
+      "C": "Từ 800.000 đồng đến 1.000.000 đồng.",
+      "D": "Từ 1.000.000 đồng đến 2.000.000 đồng.",
+      "True": "B"
+    },
+    {
+      "type": "multiple_choice",
+      "Q": "Hành vi dùng tay cầm và sử dụng điện thoại di động khi đang điều khiển xe đạp điện chạy trên đường bị xử phạt ở mức nào?",
+      "A": "Từ 80.000 đồng đến 100.000 đồng.",
+      "B": "Từ 200.000 đồng đến 300.000 đồng.",
+      "C": "Từ 400.000 đồng đến 600.000 đồng.",
+      "D": "Từ 800.000 đồng đến 1.000.000 đồng.",
+      "True": "A"
+    },
+    {
+      "type": "multiple_choice",
+      "Q": "Hành vi chuyển làn đường không có tín hiệu báo trước (không xi-nhan) khi điều khiển xe máy bị phạt tiền ở mức nào sau đây?",
+      "A": "Từ 100.000 đồng đến 200.000 đồng.",
+      "B": "Từ 200.000 đồng đến 300.000 đồng.",
+      "C": "Từ 400.000 đồng đến 600.000 đồng.",
+      "D": "Từ 800.000 đồng đến 1.000.000 đồng.",
+      "True": "A"
+    },
+    {
+      "type": "multiple_choice",
+      "Q": "Người điều khiển xe máy thực hiện hành vi điều khiển xe chạy dàn hàng ngang từ 3 xe trở lên bị phạt tiền ở mức nào?",
+      "A": "Từ 100.000 đồng đến 200.000 đồng.",
+      "B": "Từ 200.000 đồng đến 300.000 đồng.",
+      "C": "Từ 400.000 đồng đến 600.000 đồng.",
+      "D": "Từ 800.000 đồng đến 1.000.000 đồng.",
+      "True": "A"
+    },
+    {
+      "type": "multiple_choice",
+      "Q": "Người điều khiển xe đạp điện đi vào đường có biển \"Cấm đi ngược chiều\" hoặc đi ngược chiều đường một chiều bị phạt tiền với mức nào?",
+      "A": "Từ 100.000 đồng đến 200.000 đồng.",
+      "B": "Từ 300.000 đồng đến 400.000 đồng.",
+      "C": "Từ 600.000 đồng đến 800.000 đồng.",
+      "D": "Từ 1.000.000 đồng đến 2.000.000 đồng.",
+      "True": "B"
+    },
+    {
+      "type": "multiple_choice",
+      "Q": "Người điều khiển xe đạp điện thực hiện hành vi lạng lách, đánh võng hoặc đuổi nhau trên đường bị phạt tiền ở mức nào sau đây?",
+      "A": "Từ 100.000 đồng đến 200.000 đồng.",
+      "B": "Từ 300.000 đồng đến 400.000 đồng.",
+      "C": "Từ 800.000 đồng đến 1.000.000 đồng.",
+      "D": "Từ 2.000.000 đồng đến 3.000.000 đồng.",
+      "True": "B"
+    },
+    {
+      "type": "multiple_choice",
+      "Q": "Luật Bảo vệ môi trường năm 2020 có hiệu lực thi hành từ ngày nào?",
+      "A": "Ngày 01 tháng 01 năm 2021.",
+      "B": "Ngày 01 tháng 07 năm 2021.",
+      "C": "Ngày 01 tháng 01 năm 2022.",
+      "D": "Ngày 01 tháng 07 năm 2022.",
+      "True": "C"
+    },
+    {
+      "type": "multiple_choice",
+      "Q": "Theo Luật Bảo vệ môi trường 2020, chất thải rắn sinh hoạt được phân thành những nhóm nào?",
+      "A": "Rác hữu cơ và rác vô cơ theo cách gọi thông thường.",
+      "B": "Chất thải tái chế, chất thải thực phẩm và chất thải khác.",
+      "C": "Rác khô, rác ướt và rác có kích thước lớn.",
+      "D": "Rác trong nhà, rác ngoài sân và rác ngoài đường.",
+      "True": "B"
+    },
+    {
+      "type": "multiple_choice",
+      "Q": "Bạo lực học đường được hiểu là hành vi nào sau đây?",
+      "A": "Hoạt động vui chơi, thi đua giữa các nhóm học sinh.",
+      "B": "Hành vi cố ý gây tổn hại thể chất, tinh thần người học.",
+      "C": "Những cuộc tranh luận về nội dung bài học trên lớp.",
+      "D": "Hoạt động góp ý, nhận xét bạn trong học tập.",
+      "True": "B"
+    },
+    {
+      "type": "multiple_choice",
+      "Q": "Học sinh đánh hội đồng bạn học gây thương tích với tỷ lệ tổn thương cơ thể 15% (thuộc khoản 1 Điều 134 BLHS về Tội cố ý gây thương tích). Khung hình phạt cơ bản áp dụng cho hành vi này là gì?",
+      "A": "Phạt tiền từ 10 - 50 triệu đồng",
+      "B": "Phạt cải tạo không giam giữ đến 03 năm hoặc phạt tù từ 06 tháng đến 03 năm",
+      "C": "Phạt tù từ 02 năm đến 05 năm",
+      "D": "Phạt tù từ 05 năm đến 10 năm",
+      "True": "B"
+    },
+    {
+      "type": "multiple_choice",
+      "Q": "Nhóm học sinh chặn đường dùng dao đe dọa đánh ngay lập tức để lấy điện thoại của bạn (Tội cướp tài sản - Điều 168 BLHS). Mức hình phạt thấp nhất ở khung cơ bản của tội danh này là gì?",
+      "A": "Phạt tù từ 01 năm đến 03 năm",
+      "B": "Phạt tù từ 03 năm đến 10 năm",
+      "C": "Phạt tù từ 07 năm đến 15 năm",
+      "D": "Phạt cải tạo không giam giữ 02 năm",
+      "True": "B"
+    },
+    {
+      "type": "multiple_choice",
+      "Q": "Hành vi đe dọa tung clip nóng hoặc dùng bạo lực để ép bạn học nộp tiền hàng tuần (Tội cưỡng đoạt tài sản - Điều 170 BLHS) chịu khung hình phạt cơ bản nào?",
+      "A": "Phạt tiền từ 5 - 20 triệu đồng",
+      "B": "Phạt tù từ 01 năm đến 05 năm",
+      "C": "Phạt tù từ 03 năm đến 07 năm",
+      "D": "Phạt cải tạo không giam giữ đến 01 năm",
+      "True": "B"
+    },
+    {
+      "type": "multiple_choice",
+      "Q": "Đăng clip xé quần áo, làm nhục bạn học lên mạng xã hội gây hậu quả nghiêm trọng đến nhân phẩm nạn nhân (Tội làm nhục người khác - Điều 155 BLHS) có khung hình phạt cao nhất của tội này là bao nhiêu?",
+      "A": "Phạt tù đến 01 năm",
+      "B": "Phạt tù đến 03 năm",
+      "C": "Phạt tù đến 05 năm",
+      "D": "Phạt tù đến 07 năm",
+      "True": "C"
+    },
+    {
+      "type": "multiple_choice",
+      "Q": "Người từ đủ 14 tuổi đến dưới 16 tuổi thực hiện hành vi bạo lực học đường dẫn đến thương tích cho nạn nhân với tỷ lệ tổn thương cơ thể 61% trở lên (thuộc tội phạm rất nghiêm trọng/đặc biệt nghiêm trọng) bị xử lý hình sự. Mức phạt tù áp dụng cho độ tuổi này được quy định như thế nào?",
+      "A": "Áp dụng mức phạt giống như người lớn (người thành niên)",
+      "B": "Tối đa không quá 1/2 mức phạt tù mà điều luật quy định",
+      "C": "Tối đa không quá 3/4 mức phạt tù mà điều luật quy định",
+      "D": "Tuyệt đối không bị phạt tù",
+      "True": "B"
+    },
+    {
+      "type": "multiple_choice",
+      "Q": "Đánh hội đồng bạn học dẫn đến hậu quả nạn nhân bị tử vong (Tội cố ý gây thương tích dẫn đến chết người - Khoản 4 Điều 134 BLHS). Khung hình phạt quy định cho hành vi này là gì?",
+      "A": "Phạt tù từ 03 năm đến 07 năm",
+      "B": "Phạt tù từ 07 năm đến 14 năm",
+      "C": "Phạt tù từ 12 năm đến 20 năm hoặc tù chung thân",
+      "D": "Phạt tù từ 01 năm đến 05 năm",
+      "True": "B"
+    },
+    {
+      "type": "multiple_choice",
+      "Q": "Hành vi liên tục chửi bới, đe dọa, đối xử tàn ác làm suy sụp tinh thần bạn học trong thời gian dài (Tội hành hạ người khác - Điều 140 BLHS) thuộc trường hợp đối với người dưới 16 tuổi (Khoản 2) có khung hình phạt nào?",
+      "A": "Phạt tù từ 03 tháng đến 02 năm",
+      "B": "Phạt tù từ 01 năm đến 03 năm",
+      "C": "Phạt tù từ 02 năm đến 05 năm",
+      "D": "Phạt tiền từ 10 - 30 triệu đồng",
+      "True": "B"
+    },
+    {
+      "type": "multiple_choice",
+      "Q": "Luật Phòng, chống ma túy năm 2021 có hiệu lực thi hành từ ngày nào?",
+      "A": "Ngày 01 tháng 01 năm 2021.",
+      "B": "Ngày 01 tháng 07 năm 2021.",
+      "C": "Ngày 01 tháng 01 năm 2022.",
+      "D": "Ngày 01 tháng 07 năm 2022.",
+      "True": "C"
+    },
+    {
+      "type": "multiple_choice",
+      "Q": "Heroin là chất ma túy bán tổng hợp được điều chế bằng phản ứng hóa học từ hoạt chất Morphine. Chất Morphine này được chiết xuất trực tiếp từ nhựa của loại cây nào sau đây?",
+      "A": "Cây Cần sa (Cannabis sativa)",
+      "B": "Cây Thuốc phiện / Anh túc (Papaver somniferum)",
+      "C": "Cây Keo phên (Cây Lá khát)",
+      "D": "Cây Cốc-ca (Erythroxylum coca)",
+      "True": "B"
+    },
+    {
+      "type": "multiple_choice",
+      "Q": "Học sinh cất giữ (trong cặp, trong cốp xe hoặc tại nhà) ma túy (như cần sa, ma túy dạng nước vui, nấm thức thần...) để bản thân dùng dần mà không nhằm mục đích mua bán hay sản xuất thì cấu thành tội danh nào?",
+      "A": "Tội tổ chức sử dụng trái phép chất ma túy (Điều 255 BLHS)",
+      "B": "Tội tàng trữ trái phép chất ma túy (Điều 249 BLHS)",
+      "C": "Tội chứa chấp việc sử dụng trái phép chất ma túy (Điều 256 BLHS)",
+      "D": "Chỉ bị xử phạt vi phạm hành chính trong mọi trường hợp",
+      "True": "B"
+    },
+    {
+      "type": "multiple_choice",
+      "Q": "Hành vi bán tinh dầu thuốc lá điện tử chứa chất ma túy (như ADB-BUTINACA, THC...) cho các bạn học sinh trong trường học cấu thành tội phạm nào và bị xử lý theo khung hình phạt nào ở mức cơ bản?",
+      "A": "Tội buôn bán hàng cấm (Điều 190 BLHS)",
+      "B": "Tội mua bán trái phép chất ma túy (Điều 251 BLHS) — Phạt tù từ 02 năm đến 07 năm",
+      "C": "Tội mua bán trái phép chất ma túy (Điều 251 BLHS) — Phạt tù từ 07 năm đến 15 năm (do phạm tội đối với người dưới 18 tuổi hoặc tại cơ sở giáo dục)",
+      "D": "Chỉ bị phạt tiền từ 10.000.000đ đến 20.000.000đ",
+      "True": "C"
+    },
+    {
+      "type": "multiple_choice",
+      "Q": "Một nhóm học sinh rủ rê, chuẩn bị địa điểm (thuê phòng karaoke, nhà trọ) và dụng cụ để cùng nhau \"bay lắc\", sử dụng ma túy tổng hợp/nước vui thì người đứng ra tổ chức, chuẩn bị dụng cụ sẽ bị truy cứu về tội danh nào?",
+      "A": "Tội tổ chức sử dụng trái phép chất ma túy (Điều 255 BLHS)",
+      "B": "Tội sử dụng trái phép chất ma túy",
+      "C": "Tội gây rối trật tự công cộng (Điều 318 BLHS)",
+      "D": "Tội che giấu tội phạm (Điều 389 BLHS)",
+      "True": "A"
+    },
+    {
+      "type": "multiple_choice",
+      "Q": "Hành vi dụ dỗ, lôi kéo, kích động hoặc ép buộc bạn học dùng thử bánh kẹo, nước uống chứa chất ma túy mà bạn học đó không hề biết trước cấu thành tội danh nào?",
+      "A": "Tội dụ dỗ người khác phạm tội",
+      "B": "Tội lừa đảo chiếm đoạt tài sản",
+      "C": "Tội cưỡng bức sử dụng trái phép chất ma túy (Điều 257 BLHS) hoặc Tội lôi kéo người khác sử dụng trái phép chất ma túy (Điều 258 BLHS)",
+      "D": "Tội cố ý gây thương tích (Điều 134 BLHS)",
+      "True": "C"
+    },
+    {
+      "type": "multiple_choice",
+      "Q": "Học sinh thực hiện hành vi nhận vận chuyển hộ một gói hàng (bên trong có chứa ma túy) từ người này sang người khác để lấy tiền công hoặc điểm tốt, dù biết rõ hoặc nghi ngờ bên trong là ma túy thì sẽ bị xử lý về tội gì?",
+      "A": "Tội vận chuyển trái phép chất ma túy (Điều 250 BLHS)",
+      "B": "Tội tàng trữ trái phép chất ma túy (Điều 249 BLHS)",
+      "C": "Tội làm tay sai cho tội phạm",
+      "D": "Không phạm tội vì chỉ là người giao hàng thuê (shipper)",
+      "True": "A"
+    },
+    {
+      "type": "multiple_choice",
+      "Q": "Một học sinh 15 tuổi thực hiện hành vi cố ý gây thương tích. Việc xác định trách nhiệm hình sự cần căn cứ chủ yếu vào yếu tố nào?",
+      "A": "Chỉ căn cứ vào việc người đó đã gây thương tích.",
+      "B": "Chỉ căn cứ vào yêu cầu của người bị hại.",
+      "C": "Chỉ căn cứ vào kết quả học tập của người đó.",
+      "D": "Độ tuổi, tính chất và mức độ tội phạm theo luật định.",
+      "True": "D"
+    },
+    {
+      "type": "multiple_choice",
+      "Q": "Một học sinh 17 tuổi tham gia cướp giật tài sản. Nhận định nào sau đây phù hợp với pháp luật?",
+      "A": "Không phải chịu trách nhiệm vì chưa đủ 18 tuổi.",
+      "B": "Có thể phải chịu trách nhiệm hình sự về hành vi phạm tội.",
+      "C": "Chỉ bị xử lý nếu gia đình không bồi thường.",
+      "D": "Chỉ bị nhà trường xử lý bằng hình thức kỷ luật.",
+      "True": "B"
+    },
+    {
+      "type": "multiple_choice",
+      "Q": "Khi xem xét trách nhiệm của người dưới 18 tuổi phạm tội, cơ quan có thẩm quyền cần chú ý những yếu tố nào?",
+      "A": "Chỉ xem xét giá trị tài sản bị thiệt hại.",
+      "B": "Chỉ xem xét ý kiến của gia đình người đó.",
+      "C": "Xem xét tuổi, nhận thức, nhân thân và hành vi.",
+      "D": "Chỉ xem xét kết quả học tập và rèn luyện.",
+      "True": "C"
+    },
+    {
+      "type": "multiple_choice",
+      "Q": "Một học sinh 16 tuổi trộm cắp tài sản theo lời rủ rê của bạn. Nhận định nào sau đây đúng?",
+      "A": "Được miễn trách nhiệm vì làm theo lời rủ rê.",
+      "B": "Chỉ người rủ rê phải chịu trách nhiệm pháp lý.",
+      "C": "Có thể phải chịu trách nhiệm tùy tính chất, mức độ hành vi.",
+      "D": "Chỉ cần xin lỗi là được miễn mọi trách nhiệm.",
+      "True": "C"
+    },
+    {
+      "type": "multiple_choice",
+      "Q": "Một học sinh chỉnh sửa ảnh giáo viên thành nội dung phản cảm rồi phát tán lên mạng. Nhận định nào phù hợp nhất?",
+      "A": "Chỉ vi phạm nội quy nếu không thu lợi từ việc đăng ảnh.",
+      "B": "Có thể xâm phạm danh dự, nhân phẩm và quyền hình ảnh.",
+      "C": "Không vi phạm vì hình ảnh đã được chỉnh sửa bằng phần mềm.",
+      "D": "Chỉ bị xử lý khi người đăng sử dụng tài khoản thật.",
+      "True": "B"
+    },
+    {
+      "type": "multiple_choice",
+      "Q": "Một nhóm học sinh xâm nhập trái phép tài khoản bạn, lấy dữ liệu cá nhân để đe dọa. Nhận định nào chính xác nhất?",
+      "A": "Không vi phạm vì các em học cùng một trường.",
+      "B": "Chỉ vi phạm nếu tài khoản có thông tin về tiền bạc.",
+      "C": "Có thể vi phạm pháp luật về mạng và quyền riêng tư.",
+      "D": "Chỉ cần xóa dữ liệu là không còn trách nhiệm.",
+      "True": "C"
+    },
+    {
+      "type": "multiple_choice",
+      "Q": "Người điều khiển xe máy dùng điện thoại bằng tay khi xe đang chạy có thể dẫn đến hậu quả nào?",
+      "A": "Không ảnh hưởng nếu người lái đã quen sử dụng.",
+      "B": "Giảm tập trung, tăng nguy cơ tai nạn và vi phạm luật.",
+      "C": "Chỉ gây nguy hiểm cho người đi bộ trên vỉa hè.",
+      "D": "Chỉ bị xem là vi phạm khi xảy ra va chạm giao thông.",
+      "True": "B"
+    },
+    {
+      "type": "multiple_choice",
+      "Q": "Người đi bộ khi tham gia giao thông cần thực hiện quy định nào?",
+      "A": "Đi dưới lòng đường để tránh các phương tiện.",
+      "B": "Đi trên vỉa hè, lề đường hoặc nơi dành riêng.",
+      "C": "Đi thành hàng ngang trên phần đường xe chạy.",
+      "D": "Sang đường tại bất kỳ vị trí nào thuận tiện.",
+      "True": "B"
+    },
+    {
+      "type": "multiple_choice",
+      "Q": "Hành vi nào sau đây góp phần bảo vệ môi trường?",
+      "A": "Vứt rác sinh hoạt xuống dòng suối gần nhà.",
+      "B": "Đốt rác nhựa tùy tiện tại khu dân cư.",
+      "C": "Trồng cây xanh và chăm sóc cảnh quan.",
+      "D": "Xả nước thải chưa xử lý ra môi trường.",
+      "True": "C"
+    },
+    {
+      "type": "multiple_choice",
+      "Q": "Cơ sở sản xuất cố tình che giấu việc xả nước thải chưa xử lý ra môi trường. Cơ sở có thể phải chịu hậu quả pháp lý nào?",
+      "A": "Không bị xử lý nếu hoạt động sản xuất tạo việc làm.",
+      "B": "Chỉ cần đóng cửa cơ sở mà không phải khắc phục.",
+      "C": "Có thể bị xử phạt, buộc khắc phục hoặc truy cứu hình sự.",
+      "D": "Chỉ người dân sống gần cơ sở phải chịu trách nhiệm.",
+      "True": "C"
+    },
+    {
+      "type": "multiple_choice",
+      "Q": "Trường học phân loại riêng chai nhựa, giấy vụn, thức ăn thừa và chất thải khác. Ý nghĩa phù hợp nhất của hoạt động này là gì?",
+      "A": "Chỉ nhằm làm đẹp khuôn viên và trang trí lớp học.",
+      "B": "Góp phần phân loại tại nguồn, tái chế và giảm ô nhiễm.",
+      "C": "Giúp nhà trường không còn trách nhiệm bảo vệ môi trường.",
+      "D": "Thay thế hoàn toàn trách nhiệm thu gom của đơn vị chức năng.",
+      "True": "B"
+    },
+    {
+      "type": "multiple_choice",
+      "Q": "Hành vi nào sau đây bị nghiêm cấm trong hoạt động bảo vệ môi trường?",
+      "A": "Thu gom, phân loại chất thải theo hướng dẫn.",
+      "B": "Trồng cây xanh tại khuôn viên trường học.",
+      "C": "Xả chất thải chưa xử lý đạt quy chuẩn ra môi trường.",
+      "D": "Tuyên truyền sử dụng tiết kiệm tài nguyên thiên nhiên.",
+      "True": "C"
+    },
+    {
+      "type": "multiple_choice",
+      "Q": "Vì sao cần hạn chế sử dụng túi ni-lông dùng một lần?",
+      "A": "Vì túi ni-lông không có bất kỳ công dụng nào.",
+      "B": "Vì chúng khó phân hủy và có thể gây ô nhiễm.",
+      "C": "Vì túi ni-lông làm giảm diện tích đất sản xuất.",
+      "D": "Vì túi ni-lông chỉ gây ô nhiễm môi trường không khí.",
+      "True": "B"
+    },
+    {
+      "type": "multiple_choice",
+      "Q": "Hành vi nào sau đây bị nghiêm cấm theo pháp luật về phòng, chống ma túy?",
+      "A": "Tuyên truyền tác hại của ma túy trong trường học.",
+      "B": "Tham gia hoạt động phòng, chống ma túy tại địa phương.",
+      "C": "Trồng cây có chứa chất ma túy trái quy định pháp luật.",
+      "D": "Tổ chức hoạt động thể thao lành mạnh cho học sinh.",
+      "True": "C"
+    },
+    {
+      "type": "multiple_choice",
+      "Q": "Ma túy có thể gây ra hậu quả chủ yếu nào đối với người sử dụng?",
+      "A": "Cải thiện sức khỏe và thể lực trong thời gian dài.",
+      "B": "Gây nghiện, ảnh hưởng sức khỏe thể chất và tinh thần.",
+      "C": "Nâng cao khả năng tập trung và kết quả học tập.",
+      "D": "Không gây ảnh hưởng nếu chỉ sử dụng một lần.",
+      "True": "B"
+    },
+    {
+      "type": "multiple_choice",
+      "Q": "Hành vi nào thể hiện trách nhiệm của học sinh trong phòng, chống ma túy?",
+      "A": "Thử chất lạ khi được bạn bè rủ rê, mời gọi.",
+      "B": "Tuyên truyền tác hại và chủ động tránh xa ma túy.",
+      "C": "Che giấu việc sử dụng ma túy của bạn cùng lớp.",
+      "D": "Giúp người khác cất giữ chất nghi là ma túy.",
+      "True": "B"
+    },
+    {
+      "type": "multiple_choice",
+      "Q": "Học sinh A, 15 tuổi, cùng nhóm bạn thực hiện hành vi cướp tài sản và trực tiếp khống chế người bị hại. Nhận định nào chính xác nhất?",
+      "A": "A đương nhiên không chịu trách nhiệm vì chưa đủ 16 tuổi.",
+      "B": "A có thể phải chịu trách nhiệm nếu hành vi thuộc trường hợp luật định.",
+      "C": "Chỉ người đủ 18 tuổi mới chịu trách nhiệm về tội cướp tài sản.",
+      "D": "A chỉ chịu trách nhiệm nếu trước đó đã bị xử phạt hành chính.",
+      "True": "B"
+    },
+    {
+      "type": "multiple_choice",
+      "Q": "Khi nhận đường link lạ yêu cầu nhập mật khẩu và mã OTP, em nên làm gì?",
+      "A": "Truy cập và nhập thông tin để kiểm tra.",
+      "B": "Chuyển đường link cho bạn bè cùng truy cập.",
+      "C": "Không truy cập, không cung cấp thông tin và báo người lớn.",
+      "D": "Nhập mã OTP nếu trang web có hình ảnh quen thuộc.",
+      "True": "C"
+    },
+    {
+      "type": "multiple_choice",
+      "Q": "Chứng kiến một bạn bị nhóm học sinh đánh đập, em nên làm gì?",
+      "A": "Cổ vũ và quay video để chia sẻ với bạn bè.",
+      "B": "Tham gia đánh cùng nhóm để thể hiện sự đoàn kết.",
+      "C": "Hỗ trợ an toàn và báo ngay người có trách nhiệm.",
+      "D": "Bỏ đi vì cho rằng đó là mâu thuẫn cá nhân.",
+      "True": "C"
+    },
+    {
+      "type": "multiple_choice",
+      "Q": "Một học sinh bị nhóm bạn đe dọa, ép đưa tiền nếu không sẽ bị đánh. Cách xử lý nào phù hợp nhất?",
+      "A": "Đưa tiền thường xuyên để tránh bị nhóm bạn gây sự.",
+      "B": "Tập hợp bạn bè để trả thù và buộc nhóm kia xin lỗi.",
+      "C": "Giữ bằng chứng an toàn và báo gia đình, nhà trường, công an.",
+      "D": "Đăng thông tin cá nhân của nhóm đe dọa lên mạng xã hội.",
+      "True": "C"
+    }
+  ]
+}
